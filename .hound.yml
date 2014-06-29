@@ -1,0 +1,5 @@
+StringLiterals:
+  EnforcedStyle: single_quotes
+
+SpaceInsideHashLiteralBraces:
+  EnforcedStyle: no_space
